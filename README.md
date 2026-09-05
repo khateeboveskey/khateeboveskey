@@ -63,6 +63,10 @@ Fullstack Developer and Technical Trainer with 1.5+ years of experience in web d
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
+## Stack Overflow
+
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/19004094?style=flat&logo=stack%20overflow&logoColor=orange&color=orange)](https://stackoverflow.com/users/19004094)
+
 ## Social Media
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@khateebedia)
