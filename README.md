@@ -10,15 +10,17 @@ Fullstack Developer and Technical Trainer with 1.5+ years of experience in web d
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khateeboveskey&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khateeboveskey&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khateeboveskey&theme=github_dark)
 
 ## Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khateeboveskey&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khateeboveskey&theme=github_dark)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khateeboveskey&theme=github_dark)
 
 ## Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khateeboveskey&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=khateeboveskey&theme=dark&hide_border=true)
 
 ## Programming Languages
 
@@ -60,40 +62,6 @@ Fullstack Developer and Technical Trainer with 1.5+ years of experience in web d
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-
-## Selected Projects
-
-| Project | Type | Tech Stack |
-| --- | --- | --- |
-| [Sikkah Farah Al Omr](https://sikkah-fa.com/) | Website | TypeScript, Vue, Nuxt, Tailwind CSS, Laravel |
-| [Nofoth Official Website](https://nofoth.vercel.app/) | Website | HTML5, CSS3, JavaScript |
-| [Rokn Al-Hewar](https://edialoguec.org.sa/) | Website | Vue, Nuxt, Tailwind CSS |
-| [Ataa SaaS Platform](https://saas.ataa.com.sa/) | Web App | TypeScript, Vue, Nuxt, Tailwind CSS |
-| [E-Muslim Community](https://emuslimcommunity.org/) | Web App | TypeScript, Vue, Nuxt, UnoCSS |
-| [Salam Chat](https://salamchat.net) | Web App | TypeScript, Vue, Nuxt, UnoCSS |
-| [Khateeb's Portfolio](https://github.com/khateeboveskey/khateeboveskey.github.io) | Website | Vue, TypeScript, Tailwind CSS |
-| [Zameel App Admin](https://github.com/khateeboveskey/zameel-admin) | Web App | TypeScript, Vue, Nuxt |
-| [Taraheeb Admin Panel](https://github.com/khateeboveskey/taraheeb-admin) | Web App | TypeScript, Vue |
-| [Mersal CRM API Client](https://github.com/khateeboveskey/mersal-crms) | Web App | Vue, Tailwind CSS |
-| [Awam E-Book Library](https://github.com/khateeboveskey/awam-ebooks-library) | Web App | Laravel, Tailwind CSS |
-| [Morse Code Translator](https://github.com/khateeboveskey/winform-morse-code-translator) | Desktop App | C# |
-| [Balqis Association](https://github.com/khateeboveskey/balqis-association) | Website | Vue, Tailwind CSS |
-
-## Training & Speaking
-
-- AI for Da'wah & Content Creation Course Trainer — International Islamic University
-- Robotics & AI Championship Referee — Al-Nawras Private Model Schools
-- Advanced Programming Championship Referee — Al-Nibras & Sama Aden Model Schools
-- Git & GitHub Workshop Trainer — Medalah Organization (+30 trainees)
-- Frontend Development Instructor (80-hour HTML, CSS, JavaScript, Vue.js course) — Harvard Aden Institute
-- C++ Programming Language Trainer — Harvard Aden Institute
-- AI Prompt Engineering Trainer — Yemedian, Aden Art Space Project
-- TEDx Speaker — [TEDxSealineRd](https://www.ted.com/tedx/events/59542)
-
-## Languages
-
-- Arabic: Native
-- English: Duolingo English Test — Overall 120/160, CEFR B2 (Upper Intermediate)
 
 ## Social Media
 
